@@ -225,4 +225,8 @@ em{
   #title{
     text-align: center;
   }
+  .title-col{
+    padding-top: 15%;
+  }
+
 }
